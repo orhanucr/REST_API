@@ -2,6 +2,6 @@
  BMG3_REST_API
 
 #
-images --> ekran görüntüleri
+Images --> ekran görüntüleri
 #
-book.csv --> oluşturduğumuz datalar
+book.csv --> oluşturduğumuz api dataları
